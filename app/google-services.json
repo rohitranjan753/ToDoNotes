@@ -1,0 +1,51 @@
+{
+  "override": {},
+  "project_info": {
+    "project_number": "648173188093",
+    "project_id": "noteit-69a10",
+    "storage_bucket": "noteit-69a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648173188093:android:d5747d8ea67223c24e1f94",
+        "android_client_info": {
+          "package_name": "com.example.todonotes"
+        }
+      },
+
+      "oauth_client": [
+        {
+          "client_id": "648173188093-rl08irktdtql8ak8frhbquvbdpvpp8cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todonotes",
+            "certificate_hash": "f31cd18eed13a6eb3c1656c4f144ded3819f4465"
+          }
+        },
+        {
+          "client_id": "648173188093-ndoopl3b7uqf930ln52b1r2kirmgv214.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fAS94rtMJKYJsmK6-eiYlpW_eXn-e9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648173188093-ndoopl3b7uqf930ln52b1r2kirmgv214.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
+
